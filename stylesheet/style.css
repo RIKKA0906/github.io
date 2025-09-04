@@ -178,6 +178,21 @@ p {
   bottom: 24px;
 }
 
+/* ----------------------------------------------- シェフ */
+.chef::after {
+  content: "シェフ";
+}
+
+.chef_bg {
+  background-color: #fdf5e6;
+}
+
+.chef_name {
+  font-size: 24px;
+  font-weight: 600;
+  font-style: normal;
+}
+
 /* ----------------------------------------------- アクセス */
 
 .access::after {
